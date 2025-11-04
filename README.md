@@ -18,24 +18,24 @@ Proyek ini dibuat sebagai bagian dari latihan pengembangan dan penilaian kesiapa
 
 🧩 Fitur Utama
 
-Manajemen Data Pengguna
+1. Manajemen Data Pengguna
 
-Menambahkan, memperbarui, menghapus, serta menampilkan informasi pengguna.
+- Menambahkan, memperbarui, menghapus, serta menampilkan informasi pengguna.
 
-Setiap akun memiliki atribut utama: id, nama, email, dan password.
+- Setiap akun memiliki atribut utama: id, nama, email, dan password.
 
-Sistem Autentikasi (JWT)
+2. Sistem Autentikasi (JWT)
 
-Pengguna dapat login menggunakan kombinasi email dan password.
+- Pengguna dapat login menggunakan kombinasi email dan password.
 
-Setelah login berhasil, sistem memberikan token untuk mengakses fitur presensi.
+- Setelah login berhasil, sistem memberikan token untuk mengakses fitur presensi.
 
-Fitur Presensi Harian
+3. Fitur Presensi Harian
 
-Memungkinkan pengguna melakukan check-in dan check-out secara online.
+- Memungkinkan pengguna melakukan check-in dan check-out secara online.
 
-Data kehadiran otomatis tersimpan dengan waktu dan tanggal yang akurat.
+- Data kehadiran otomatis tersimpan dengan waktu dan tanggal yang akurat.
 
-Keamanan Akses
+4. Keamanan Akses
 
-Setiap endpoint yang berkaitan dengan presensi dilindungi oleh Bearer Token untuk menjaga keamanan data.
+- Setiap endpoint yang berkaitan dengan presensi dilindungi oleh Bearer Token untuk menjaga keamanan data.
